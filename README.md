@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Edie homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://avidadfleur.github.io/edie-homepage">
       Solution
     </a>
     <span> | </span>
@@ -29,7 +25,6 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -37,22 +32,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screen Shot 2022-04-21 at 18 10 53](https://user-images.githubusercontent.com/86981532/164570473-769a0709-08a5-4ef2-ab99-5ea2b41a8885.png)
+![Screen Shot 2022-04-21 at 18 10 46](https://user-images.githubusercontent.com/86981532/164570477-be11b6e6-b29c-468f-a26d-4dc9d5c612c7.png)
+![Screen Shot 2022-04-21 at 18 10 34](https://user-images.githubusercontent.com/86981532/164570481-63cedf33-e61f-48e4-a122-0dfd94d1e3aa.png)
+![Screen Shot 2022-04-21 at 18 10 23](https://user-images.githubusercontent.com/86981532/164570483-2df33d57-939e-40e9-981a-ebef7ae4badd.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
 - What was your experience?
+  This was a great experience because it was my first mobile-first approach project and it was easier than when i did everything with destop-first approach
 - What have you learned/improved?
+  Working through mobile first approach
 - Your wisdom? :)
+  Don't be afraid of using mobile first approach it's way easier than it looks like!
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
+- Javascript
 
 ## Features
 
@@ -60,33 +58,15 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0) was to build an application to complete the given user stories.
 
-## How To Use
-
-<!-- Example: -->
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [avidadfleur.github.io](https://avidadfleur.github.io)
+- GitHub [@avidadfleur](https://github.com/avidadfleur)
+- Twitter [@laviedefleur](https://twitter.com/laviedefleur)
